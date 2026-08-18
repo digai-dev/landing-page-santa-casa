@@ -1,5 +1,5 @@
 # landing-page-santa-casa
 
-github pages: https://psiu-dev.github.io/landing-page-santa-casa/
+Github pages: https://psiu-dev.github.io/landing-page-santa-casa/
 
-página oficial: 
+Página oficial: 
